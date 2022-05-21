@@ -12,11 +12,11 @@ namespace Micelanea_MOD
         {
             Console.WriteLine("-------------------------------");
             Console.WriteLine("Elija la operación a realizar");
-            Console.WriteLine("1. Clacular el area de un triangulo");
+            Console.WriteLine("1. Calcular el area de un triangulo");
             Console.WriteLine("2. Suma de terminos");
             Console.WriteLine("3. Un número elvado al cuadradro (x^2)");
             Console.WriteLine("4. Conversor de Euros a Dolares");
-            Console.WriteLine("5. Area y perímetro de un cuadrado");
+            Console.WriteLine("5. Área y perímetro de un cuadrado");
             Console.WriteLine("6. Área y Volúmen de un cilindro");
             Console.WriteLine("7. Radio, longitud y area de un circulo");
             Console.WriteLine("8. Promedio de tres números");
@@ -52,7 +52,7 @@ namespace Micelanea_MOD
             Console.WriteLine("-------------------------------");
             Console.WriteLine("Ingrese el primer número entero: ");
             num1 = (int)Convert.ToDouble(Console.ReadLine());
-            Console.WriteLine("El Numero elvado al cuadrado es: ");
+            Console.WriteLine("El Numero elevado al cuadrado es: ");
             Console.WriteLine(Math.Pow(num1, 2));
             Console.WriteLine("-------------------------------");
         }

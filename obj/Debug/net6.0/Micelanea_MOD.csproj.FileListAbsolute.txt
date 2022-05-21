@@ -1,0 +1,15 @@
+D:\SENA\vs Códigos\Micelanea_MOD\bin\Debug\net6.0\Micelanea_MOD.exe
+D:\SENA\vs Códigos\Micelanea_MOD\bin\Debug\net6.0\Micelanea_MOD.deps.json
+D:\SENA\vs Códigos\Micelanea_MOD\bin\Debug\net6.0\Micelanea_MOD.runtimeconfig.json
+D:\SENA\vs Códigos\Micelanea_MOD\bin\Debug\net6.0\Micelanea_MOD.dll
+D:\SENA\vs Códigos\Micelanea_MOD\bin\Debug\net6.0\Micelanea_MOD.pdb
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\Micelanea_MOD.csproj.AssemblyReference.cache
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\Micelanea_MOD.GeneratedMSBuildEditorConfig.editorconfig
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\Micelanea_MOD.AssemblyInfoInputs.cache
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\Micelanea_MOD.AssemblyInfo.cs
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\Micelanea_MOD.csproj.CoreCompileInputs.cache
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\Micelanea_MOD.dll
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\refint\Micelanea_MOD.dll
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\Micelanea_MOD.pdb
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\Micelanea_MOD.genruntimeconfig.cache
+D:\SENA\vs Códigos\Micelanea_MOD\obj\Debug\net6.0\ref\Micelanea_MOD.dll

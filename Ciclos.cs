@@ -88,7 +88,7 @@ namespace Micelanea_MOD
         public static void op_7(int num1, int num2 = 0)
         {
             Console.WriteLine("-------------------------------");
-            Console.WriteLine("Suma de todos los números ingresados, mientras no sea cero");
+            Console.WriteLine("Suma de todos los números ingresados y precione cero para generar el resultado");
             do
             {
                 Console.WriteLine("Ingrese un número");

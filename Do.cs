@@ -14,6 +14,7 @@ namespace Micelanea_MOD
             Console.WriteLine("Fin del programa");
             Console.WriteLine("Presione ENTER para Volver al menú principal o Crtl + c para salir");
             Console.ReadKey();
+            Console.Clear();
         }
     }
 
